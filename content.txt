@@ -6,3 +6,4 @@ this is develop modify;
 this is add on master!!@
 测试Fast forward模式
 新增一次提交2017-1-3
+新增二次提交2017-1-3
